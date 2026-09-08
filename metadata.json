@@ -1,0 +1,6 @@
+{
+  "name": "OmniAI",
+  "description": "تطبيق ذكاء اصطناعي تفاعلي متقدم مع دعم لغات متعددة وتوليد صور وفيديوهات والتفكير العميق وحفظ المحادثات والعمل بدون نت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
